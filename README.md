@@ -15,7 +15,7 @@ docker build -t gocruddocker:v01 .
 
 docker run -p 8012:8012 gocruddocker:v01
 
-docker run -p 8012:8012 maziar/gocruddocker:v01
+docker run -p 8012:8012 hammadcodes/gocruddocker:v01
 
 Dcoker URL https://hub.docker.com/repository/docker/hammadcodes/gocruddocker/general
 
